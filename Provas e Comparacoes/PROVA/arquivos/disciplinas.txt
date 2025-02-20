@@ -1,0 +1,7 @@
+Portugues,200,43523
+Matematica,350,45651
+Geografia,120,64213
+Historia,100,18911
+Ingles,50,2713
+Sociologia,12,7123
+Literatura,400,14511354

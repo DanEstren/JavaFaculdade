@@ -1,0 +1,4 @@
+Pedro,Portugues Licenciatura,2015,pedrinho@gmail.com,Macaxeiras200,RiberaoPreto,20156-213
+Marcelo,Matematica Licenciatura,2015,marcelo@gmail.com,RuaJacintos1067,RioDeJaneiro,20156-213
+Paula,Ingles Licenciatura,2015,paulinha@gmail.com,RuaNavesAvila1076,SaoPaulo,66148-213
+Sergio,Sociologia Aplicada,1990,sergio@orkut.com.br,Burtis1235,NotaItapora,2135-123
