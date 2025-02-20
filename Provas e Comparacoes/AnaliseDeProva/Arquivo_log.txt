@@ -1,0 +1,32 @@
+Aluno
+Matricula: 
+4733
+Nome: 
+Pedro
+Data de nascimento: 
+1231233
+Telefone: 
+14234
+Turma: 
+0
+Endereco: 
+RuaJoseMartins, 23556, SantaBomica, Berlandia, Mg
+Ano de ingresso: 
+2005
+
+Aluno
+Matricula: 
+1354
+Nome: 
+Marcos
+Data de nascimento: 
+12211
+Telefone: 
+546456
+Turma: 
+0
+Endereco: 
+54654, 6546, 456546, 546546, 54654
+Ano de ingresso: 
+456
+

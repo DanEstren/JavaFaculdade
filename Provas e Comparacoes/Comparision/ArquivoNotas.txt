@@ -1,0 +1,5 @@
+Notas>>
+Nome: Paulo
+Disciplina: Portugues
+Nota: 2.0
+	...
